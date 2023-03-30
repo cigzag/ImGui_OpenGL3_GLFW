@@ -1,3 +1,0 @@
-/home/wyattw/Documents/Github/ImGui_Test_OpenGL3_GLFW/cmake-build-debug/CMakeFiles/ImGui_Test.dir
-/home/wyattw/Documents/Github/ImGui_Test_OpenGL3_GLFW/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/wyattw/Documents/Github/ImGui_Test_OpenGL3_GLFW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
